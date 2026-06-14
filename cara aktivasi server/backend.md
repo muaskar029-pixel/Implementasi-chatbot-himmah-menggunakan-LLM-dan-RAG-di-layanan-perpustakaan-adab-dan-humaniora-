@@ -5,4 +5,4 @@ source .venv/bin/activate.fish
 ```
   front end
 
-  run dev npm
+ npm run dev
